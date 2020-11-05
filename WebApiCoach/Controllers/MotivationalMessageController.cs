@@ -158,7 +158,6 @@ namespace WebApiCoach.Controllers
             "“Eu posso aceitar a falha, todos falham em alguma coisa. Mas eu não posso aceitar não tentar” – Michael Jordan",
             "“Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida. Basta que lute e aguarde um novo amanhecer” – Margaret Thatcher",
             "“Inteligência é a capacidade de se adaptar às mudanças” – Stephen Hawking",
-            "“É preciso ser protagonista. Não dá para ficar só ouvindo a banda passar, temos de ser parte da banda” – Sônia Hess",
         };
 
         private readonly ILogger<MotivationalMessageController> _logger;
